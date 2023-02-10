@@ -15,7 +15,7 @@
 Clone the project
 
 ```bash
-  git clone 
+  git clone https://github.com/AbdighaniMD/Movie-API.git
 ```
 
 Install dependencies
